@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asimov.API", "Asimov.API\Asimov.API.csproj", "{F9BBB33B-3ADB-4B7C-97D6-12CC6EB1E447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BBB33B-3ADB-4B7C-97D6-12CC6EB1E447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BBB33B-3ADB-4B7C-97D6-12CC6EB1E447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BBB33B-3ADB-4B7C-97D6-12CC6EB1E447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BBB33B-3ADB-4B7C-97D6-12CC6EB1E447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
